@@ -1,3 +1,11 @@
+# Installation
+
+Just follow installation steps from [[MAP-Net](https://github.com/jiaqixuac/MAP-Net)].
+
+Used this because I already have this environment setup and I wanted "mps" device
+
+# Author's Repo
+
 [![paper](https://img.shields.io/badge/Paper-IEEE%20IJCNN-blue)](https://doi.org/10.1109/IJCNN60899.2024.10651326)
 [![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://doi.org/10.48550/arXiv.2305.17654)
 [![Weights](https://img.shields.io/badge/GoogleDrive-Weights-yellow)](https://drive.google.com/drive/folders/1ep6W4H3vNxshYjq71Tb3MzxrXGgaiM6C?usp=drive_link)
